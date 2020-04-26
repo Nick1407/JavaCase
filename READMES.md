@@ -1,2 +1,0 @@
-# JavaCase
-Java learning materials
