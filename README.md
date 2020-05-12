@@ -8,7 +8,7 @@
     * 列表二
     * 列表三
 
-| Function name | [普通链接](https://www.mdeditor.com/)  |
+| Function name | 地址 |
 | ------------- | ------------------------------ |
 | `help()`      | [普通链接](https://www.mdeditor.com/)       |
 | `destroy()`   | [普通链接](https://www.mdeditor.com/)   |
